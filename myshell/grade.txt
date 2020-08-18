@@ -1,0 +1,20 @@
+Project 2 - My Shell
+
+Shell Functionality (50 points)
+well done!
+
+Error Checking (35/40 points)
+
+test:start (should display error)
+result: procces 9764 started (ex.Need at least two argument) ->  -5
+
+ahhh so close!
+
+Coding Style (10 points)
+Here is a small thing here:
+myshell.c:170:13: warning: implicit declaration of function ‘kill’ [-Wimplicit-function-declaration]
+
+No worries!No deduction points this time, but remember to fix the warnings since Thain do cares about these details.
+
+Total: 95
+Grader: ctsai@ND.EDU

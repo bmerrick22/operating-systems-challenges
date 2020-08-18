@@ -1,0 +1,21 @@
+Project 5 - Virtual Memory
+--------------------------
+
+Correct Implementation (50 points)
+------------------------
+Nice
+
+Error Handling (10 points)
+------------------------
+Free points!
+
+Coding Style (10 points)
+------------------------
+Awesome
+
+Lab Report (30 points)
+------------------------
+-5 points: implemented LRU without the required reference bit
+
+Total: 95
+Grader: ccarball@nd.edu

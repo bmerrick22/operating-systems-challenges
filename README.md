@@ -10,4 +10,4 @@ This is a program called myshell which is capable of executing, managing, and mo
 This program was created to demonstrate the idea of threads and locks. Essentially, it creates a mandlebrot set using varying amounts of threads. This program uses the escape time algorithm. For each pixel in the image, it starts with the x and y position, and then computes a recurrence relation until it exceeds a fixed value or runs for max iterations. 
 
 ## Virtual Memory
-In this project, I built a simple but fully functional demand paged virtual memory.
+In this project, I built a simple but fully functional demand paged virtual memory. npages is the number of pages and nframes is the number of frames to create in the system. The third argument is the page replacement algorithm. I implemented rand (random replacement), fifo (first-in-first-out), and custom, an algorithm of my own invention. The final argument specifies which built-in program to run: alpha, beta, gamma, or delta. Each manipulates the virtual memory with a different pattern of access.
